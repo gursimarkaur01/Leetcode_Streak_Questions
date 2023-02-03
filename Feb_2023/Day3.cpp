@@ -1,4 +1,4 @@
-//Quetion: Zigzag Conversion 
+//Quetion: Zigzag Conversion.
 //Source: https://leetcode.com/problems/zigzag-conversion
 
 class Solution {
