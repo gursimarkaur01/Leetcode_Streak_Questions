@@ -1,5 +1,7 @@
-//Question: Veryfying an alien dictionary
-//Source: https://leetcode.com/problems/verifying-an-alien-dictionary
+/*  Question: Veryfying an alien dictionary
+    Source: https://leetcode.com/problems/verifying-an-alien-dictionary       */
+
+//  CODE:
 
 class Solution {
 public:
