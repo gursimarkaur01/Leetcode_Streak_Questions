@@ -1,4 +1,4 @@
-/*  Question: Minimiza Deviation in Array
+/*  Question: Minimize Deviation in Array
     Source: https://leetcode.com/problems/minimize-deviation-in-array/
 
     CODE:                                                                                       */
