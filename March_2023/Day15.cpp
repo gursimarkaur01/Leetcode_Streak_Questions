@@ -1,4 +1,4 @@
-/*  Question: 
+/*  Question: Check Completeness of a Binary Tree
     Source: https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 
     CODE:                                                                                 */
