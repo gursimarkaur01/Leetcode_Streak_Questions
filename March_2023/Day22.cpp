@@ -1,7 +1,8 @@
-/*  Question; 
-    Source: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities
+/*  Question: Minimum Score Of A Path Between Two Cities
+    Source: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
 
     CODE:                                                                                    */
+
 class Solution {
 public:
     void dfs(int s,vector<bool> &v,int &ans,vector<vector<vector<int>>> &g){
