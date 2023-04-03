@@ -1,7 +1,7 @@
-/*  Question: 
-    Source: 
+/*  Question: Boats To Save People
+    Source: https://leetcode.com/problems/boats-to-save-people
 
-     CODE:                                                                                        */
+     CODE:                                                          */
 
 class Solution {
 public:
