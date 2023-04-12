@@ -1,7 +1,7 @@
 /*  Question: Removing Stars From a String 
     Source: https://leetcode.com/problems/removing-stars-from-a-string/
 
-    CODE:                                             */
+    CODE:                                                                */
 
 class Solution {
 public:
