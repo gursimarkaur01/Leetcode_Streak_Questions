@@ -1,7 +1,7 @@
 /*  Question: Merge Strings Alternately
     Solution: https://leetcode.com/problems/merge-strings-alternately/
     
-    CODE:                                                                         */
+    CODE:                                                               */
 
 class Solution {
 public:
