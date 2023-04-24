@@ -1,6 +1,6 @@
 /*  Question: Last Stone Weight
     Source: https://leetcode.com/problems/last-stone-weight/
-
+    
     CODE:                                                                                             */
 
 class Solution {
