@@ -1,7 +1,7 @@
-/*	Question:	Restore the Array
-		Source:	https://leetcode.com/problems/restore-the-array/
+/* Question: Restore the Array
+   Source: https://leetcode.com/problems/restore-the-array/
 
-		CODE:																								  		*/
+  CODE:							     */
 
 class Solution {
 public:
