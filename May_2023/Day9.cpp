@@ -1,7 +1,7 @@
 /*  Question: Spiral Matrix
     Source: https://leetcode.com/problems/spiral-matrix/
     
-    CODE:                                                  */
+    CODE:                                                 */
 
 class Solution {
 public:
