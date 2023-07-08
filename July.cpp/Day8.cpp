@@ -1,7 +1,7 @@
-/*  Question:  
-    Source:  
+/*  Question:  Put Marbles in Bags
+    Source:  https://leetcode.com/problems/put-marbles-in-bags
 
-    CODE:                                                                    */ 
+    CODE:                                                      */ 
 
 class Solution {
 public:
