@@ -1,7 +1,6 @@
 /*  Question:  Find Eventual Safe States
     Source:  https://leetcode.com/problems/find-eventual-safe-states/
 
-
     CODE:                                                            */
 
 class Solution {
